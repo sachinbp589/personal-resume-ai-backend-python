@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-flask
+python-dotenv
 pdfplumber
 python-docx
 requests
-python-dotenv
